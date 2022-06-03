@@ -22,6 +22,6 @@ Para subir el commit al repositorio en remoto:
 Para ver el estado de nuestros ficheros:  
     -_git status_  
 Para visutalizar todos los commits que hemos creado:  
-    -_git log_
-Para no subir un fichero que queríamos
+    -_git log_  
+Para no subir un fichero que queríamos:  
     -_git rm_
