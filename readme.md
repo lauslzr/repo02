@@ -1,6 +1,6 @@
 # Resumen comandos utilizados
 
-Para ver el direcorio en el que estamos:  
+Para ver el direcorio en el que estamos:   
     - _pwd_   
 Para ver el contenido del directorio en el que estoy:  
     -_ls_  
